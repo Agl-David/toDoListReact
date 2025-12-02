@@ -26,7 +26,7 @@ const TareaFormulario = (props) => {
     props.onSubmit(tareaNueva)
   }
 
-
+ 
   return (
     <form className="tarea-formulario"
           onSubmit={manejarEnvio}  >
