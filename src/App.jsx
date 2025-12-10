@@ -5,7 +5,7 @@ import ListaDeTareas from "./components/ListaDeTareas";
 function App() {
   return (
     <>
-      <div className="aplicación-tareas">
+      <div className="aplicacion-tareas">
         <div className="freecodecamp-logo-contenedor">
           <img src={freeCodeCampLogo} className="freecodecamp-logo" />
         </div>
